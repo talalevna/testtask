@@ -1,0 +1,8 @@
+.column2 {
+	display: inline-block;
+	width: 200px
+}
+
+.conv_pred {
+ 	display: none;
+ }
